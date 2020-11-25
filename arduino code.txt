@@ -1,6 +1,6 @@
 #define EIDSP_QUANTIZE_FILTERBANK   0
 #include <PDM.h>
-#include <ashish3121-project-1_inference.h>
+#include <satyam-project-1_inference.h>
 #define led 5
 /** Audio buffers, pointers and selectors */
 typedef struct {
